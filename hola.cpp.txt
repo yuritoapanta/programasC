@@ -3,3 +3,8 @@
 main(){
 	printf("hola Gerard")
 }
+#include<stdio.h>
+#include<stdlib.h>
+main(){
+	printf("hola Gerard")
+}
